@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1963
+
+See http://github.com/MarcWeber/theonevimlib.
+Start by reading core/docs/tovl.vim
+
+There is a plugin called
+plugins#filetype#vim#vl_repo#PluginVL_RepoStuff
+
+Enjoy, join and contribute!
